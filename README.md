@@ -1,0 +1,2 @@
+# Python-Programming-Data-Types-and-their-Applications
+There are many different data types in Python. These data types can also be referred to as types of objects. The most common object types include: strings, integers and floats. Anytime you write words (text) in Python, you're using character strings (strings for short). The most common numbers, on the other hand, are integers (e.g. -1, 0, 100) and floats, which represent real numbers (e.g. 3.14, -42.0).
